@@ -1,0 +1,1 @@
+SHA2-256(ConsoleApp1/NativeMethods.cs)= 2cdba2062fca131dc6186d78e04b745ea5d17116ab45e7c738302e5e5ccbf7d3

@@ -1,0 +1,1 @@
+SHA2-256(ConsoleApp1/Program.cs)= 0befb389b2cb3f8487c7f417ce0c3e408bf40a4b11d6ced26fdfdb263b62cbaf

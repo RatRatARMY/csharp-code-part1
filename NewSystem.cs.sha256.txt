@@ -1,0 +1,1 @@
+SHA2-256(ConsoleApp1/NewSystem.cs)= 533fab214dbaae1592ac1fd6151688081e0b58412262e6dc45a57e282a3393fb
