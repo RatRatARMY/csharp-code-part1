@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <AssemblyName>Program 1</AssemblyName>
+        <AssemblyVersion>1.0</AssemblyVersion>
+        <SelfContained>true</SelfContained>
+    </PropertyGroup>
+    <ItemGroup>
+        <Using Include="System.Runtime.Versioning"/>
+        <Using Include="System.Runtime.InteropServices"/>
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Silk.NET" Version="2.22.0" />
+    </ItemGroup>
+</Project>
